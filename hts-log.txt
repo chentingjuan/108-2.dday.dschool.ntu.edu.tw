@@ -1,0 +1,61 @@
+HTTrack3.49-2 launched on Sat, 24 Apr 2021 19:48:04 at http://108-2.dday.dschool.ntu.edu.tw
+(winhttrack http://108-2.dday.dschool.ntu.edu.tw -W -O "/Users/juan/websites/108-2.dday.dschool.ntu.edu.tw" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:48:04	Warning: 	Cache: damaged cache, trying to repair
+19:48:04	Warning: 	Cache: 759659 bytes successfully recovered in 195 entries
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/files/theme/images/quotef57e.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/files/theme/images/default-bgf57e.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/files/theme/images/select-dropdownf57e.html.tmp already exists
+19:48:05	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/uploads/1/3/1/8/131854549/background-images/91018499.jpeg (from 108-2.dday.dschool.ntu.edu.tw/)
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/246053277126410203588203.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/353733533624605327712594532244201542516522521329463550631243.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/211092603221407224112352620316.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/211092698923560389883074031350332873534235542.html.tmp already exists
+19:48:05	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/files/templateArtifacts.js?1608022884 (from 108-2.dday.dschool.ntu.edu.tw/)
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/34269348993328721109203168203.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/wed.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/2228338555387382418021109269892356026696.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/26032199902019521109260322110926989303402723126371332872536125136.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/3693825138201542998365306369382513830340383213571233287208773537335336.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/thur.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/21109260322638121209218302698927169243353537335336.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/21934365542247824066.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/fri.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/208442766525945329462701035542332872352636368.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/2085631684202252698936939203162460532173.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/2363728436332873103826371.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/353733533620320303402015429983.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/36914385423893623566235603898820108.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/sat.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/3000037326240372031622346.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/223122232023637408016530612300234782599121270123012356038988.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/353733533624605327712083738272-1t.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/353733533624605327712083738272-2t.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/283173689021147.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/sun.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/alpha-team.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/ntuusr--2282323416plus.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/21488228233038238761251632031631038.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/214882282333258368963277331038.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/26410203582282323416260452403720013.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/3852521488240372031623460.html.tmp already exists
+19:48:05	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/_/uploads/1/3/1/8/131854549/background-images/721019707.html.tmp already exists
+19:48:06	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/_blank.html.tmp already exists
+19:48:06	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/files/theme/plugins.html.tmp already exists
+19:48:06	Warning: 	engine: warning: temporary file /Users/juan/websites/108-2.dday.dschool.ntu.edu.tw/108-2.dday.dschool.ntu.edu.tw/files/theme/custom.html.tmp already exists
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/"/uploads/1/3/1/8/131854549/background-images/721019707.jpg" (from 108-2.dday.dschool.ntu.edu.tw/)
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/_blank (from 108-2.dday.dschool.ntu.edu.tw/)
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/files/theme/plugins.js (from 108-2.dday.dschool.ntu.edu.tw/)
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/files/theme/custom.js (from 108-2.dday.dschool.ntu.edu.tw/)
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/files/theme/images/quote.png?1608628775 (from 108-2.dday.dschool.ntu.edu.tw/files/main_style.css?1608628775)
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/files/theme/images/default-bg.jpg?1608628775 (from 108-2.dday.dschool.ntu.edu.tw/files/main_style.css?1608628775)
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/files/theme/images/select-dropdown.png?1608628775 (from 108-2.dday.dschool.ntu.edu.tw/files/main_style.css?1608628775)
+20:37:26	Error: 	"Not Found" (404) at link 108-2.dday.dschool.ntu.edu.tw/uploads/1/3/1/8/131854549/editor/_2 (from 108-2.dday.dschool.ntu.edu.tw/2363728436332873103826371.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 17 minutes 2 seconds : 477 links scanned, 466 files written (106832123 bytes overall), 281 files updated [86202878 bytes received at 18650 bytes/sec], 1.0 requests per connection
+(10 errors, 40 warnings, 0 messages)
